@@ -2,9 +2,11 @@
 
 An interactive prediction dashboard that estimates whether a breast-mass cell nucleus is **benign** or **malignant** from eight numeric measurements, returning a probability, a risk meter and a per-feature explanation in real time. A batch mode scores whole CSV files.
 
-**Live demo:** `<PASTE YOUR STREAMLIT / HUGGING FACE URL HERE>`
-**Repository:** `<PASTE YOUR GITHUB URL HERE>`
+**Live demo:** https://drive.google.com/file/d/1XX5nJab9Nggnl4h5p4LVU09IyG7jKvmt/view?usp=drivesdk
 
+**Repository:** https://github.com/ansh25306/tumor-risk-predictor
+
+**Web Link:** http://localhost:8501/
 > ⚠️ Educational project. It is **not** a medical device and must not be used for diagnosis.
 
 ## Features
